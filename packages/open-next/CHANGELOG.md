@@ -1,5 +1,11 @@
 # open-next
 
+## 2.3.5
+
+### Patch Changes
+
+- 4d4813d: Fix Cache Support for Next@14.1.0
+
 ## 2.3.4
 
 ### Patch Changes
